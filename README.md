@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 The up can be used running `streamlit run app.py` in the terminal. There are 2 option on the side bar. Q&A or Summarize. I recommend to use videos no longer than 5 min of speech due to the model tokens limitations.
 
-The first option allows to get a Q&A assistant to make question about the video.
+The first option allows to get a Q&A assistant to make questions about the video.
 
 <p align="center">
     <img src="images/qa.png" />
