@@ -1,0 +1,7 @@
+pytube
+moviepy
+openai
+streamlit
+langchain
+chromadb
+transformers
