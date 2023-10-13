@@ -37,14 +37,14 @@ pip install -r requirements.txt
 ## 🫵 App
 
 <p align="center">
-    <img src="images/initial.png" width="500" height="400"/>
+    <img src="images/initial.png" />
 </p>
 
 
 <p align="center">
-    <img src="images/initial.png" width="500" height="400"/>
+    <img src="images/initial.png" />
 </p>
 
 <p align="center">
-    <img src="images/initial.png" width="500" height="400"/>
+    <img src="images/initial.png" />
 </p>
