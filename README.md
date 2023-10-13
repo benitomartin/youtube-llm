@@ -28,12 +28,12 @@ The `ffmpeg` module is required for the proper functioning of the application. Y
 
 ```bash
 conda install -c conda-forge ffmpeg
-
+```
 
 ```bash
 pip install git+https://github.com/openai/whisper.git
-
+```
 
 ```bash
 pip install -r requirements.txt
-
+```
