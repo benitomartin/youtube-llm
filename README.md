@@ -20,7 +20,7 @@ The App can be run locally but requires an `OPENAI_API_KEY` in the `.env` file
 
 ## 💬 Set Up
 
-The `ffmpeg` module is required for the proper functioning of the application. You can install it using Conda as follows:
+ I recommend to install the modules in the following order. The `ffmpeg` module is required for the proper functioning of the application. You can install it using Conda as follows:
 
 ```bash
 conda install -c conda-forge ffmpeg
