@@ -36,15 +36,11 @@ pip install -r requirements.txt
 
 ## 🫵 App
 
-<p align="center">
-    <img src="images/initial.png" />
-</p>
-
 
 <p align="center">
-    <img src="images/initial.png" />
+    <img src="images/qa.png" />
 </p>
 
 <p align="center">
-    <img src="images/initial.png" />
+    <img src="images/summary.png" />
 </p>
