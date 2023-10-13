@@ -34,20 +34,19 @@ pip install git+https://github.com/openai/whisper.git
 pip install -r requirements.txt
 ```
 
-## 🫵 App
+## 🫵 App Deployment
 
-The up can be used running `streamlit run app.py` in the terminal. There are 2 option on the side bar. Q&A or Summarize.
+The up can be used running `streamlit run app.py` in the terminal. There are 2 option on the side bar. Q&A or Summarize. I recommend to use videos no longer than 5 min of speech due to the model tokens limitations.
 
-The first one allows to get a Q&A assistant to make question about the video.
+The first option allows to get a Q&A assistant to make question about the video.
 
 <p align="center">
     <img src="images/qa.png" />
 </p>
 
-The second one allow to get a summary of the video.
+The second option allow to get a summary of the video.
 
 <p align="center">
     <img src="images/summary.png" />
 </p>
 
-I recommend to use videos no longer than 5 min of speech due to the model tokens limitations.
