@@ -33,3 +33,18 @@ pip install git+https://github.com/openai/whisper.git
 ```bash
 pip install -r requirements.txt
 ```
+
+## 🫵 App
+
+<p align="center">
+    <img src="images/initial.png" width="500" height="400"/>
+</p>
+
+
+<p align="center">
+    <img src="images/initial.png" width="500" height="400"/>
+</p>
+
+<p align="center">
+    <img src="images/initial.png" width="500" height="400"/>
+</p>
