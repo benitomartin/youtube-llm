@@ -4,7 +4,7 @@
     <img src="https://cdn.pixabay.com/photo/2016/05/30/14/23/detective-1424831_1280.png" width="500" height="400"/>
 </p>
 
-This repository hosts an app developed using **Whisper** and **Langchain** that allows to create a Q&A assistant and video summarization. The model's maximum context length is 4097 tokens (gpt-3.5-turbo).
+This repository hosts an app developed using **Whisper** and **Langchain** that allows the creation of a Q&A assistant and video summarization. The model's maximum context length is 4097 tokens (gpt-3.5-turbo).
 
 The App can be run locally but requires an `OPENAI_API_KEY` in the `.env` file
 
@@ -20,7 +20,7 @@ The App can be run locally but requires an `OPENAI_API_KEY` in the `.env` file
 
 ## 💬 Set Up
 
- I recommend to install the modules in the following order. The `ffmpeg` module is required for the proper functioning of the application. You can install it using Conda as follows:
+ I recommend installing the modules in the following order. The `ffmpeg` module is required for the proper functioning of the application. You can install it using Conda as follows:
 
 ```bash
 conda install -c conda-forge ffmpeg
@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 ## 🫵 App Deployment
 
-The up can be used running `streamlit run app.py` in the terminal. There are 2 options on the side bar, Q&A or Summarize. I recommend using videos no longer than 5 min of speech due to the model tokens' limitations.
+The up can be used running `streamlit run app.py` in the terminal. There are 2 options on the sidebar, Q&A or Summarize. I recommend using videos no longer than 5 min of speech due to the model tokens' limitations.
 
 The first option allows a Q&A assistant to ask questions about the video.
 
