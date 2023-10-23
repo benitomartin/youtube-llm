@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 ## 🫵 App Deployment
 
-The up can be used running `streamlit run app.py` in the terminal. There are 2 options on the sidebar, Q&A or Summarize. I recommend using videos no longer than 5 min of speech due to the model tokens' limitations.
+The app can be used running `streamlit run app.py` in the terminal. There are 2 options on the sidebar, Q&A or Summarize. I recommend using videos no longer than 5 min of speech due to the model tokens' limitations.
 
 The first option allows a Q&A assistant to ask questions about the video.
 
