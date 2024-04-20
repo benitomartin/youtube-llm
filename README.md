@@ -6,7 +6,7 @@
 
 This repository hosts an app developed using **Whisper** and **Langchain** that allows the creation of a Q&A assistant and video summarization. The model's maximum context length is 4097 tokens (gpt-3.5-turbo).
 
-The App can be run locally but requires an `OPENAI_API_KEY` in the `.env` file
+The App can be run locally but requires an `OPENAI_API_KEY` in the `.env` file. Feel free to ⭐ and clone this repo 😉
 
 ## 👨‍💻 **Tech Stack**
 
